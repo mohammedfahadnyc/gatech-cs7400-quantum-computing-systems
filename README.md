@@ -2,7 +2,7 @@
 
 This repository collects quantum computing projects completed as part of Georgia Tech's CS 7400 Quantum Computing course. The work spans foundational circuit construction, quantum communication, algorithm analysis, NISQ-era compilation, error correction, and QAOA-based optimization.
 
-The implementations use Qiskit to build, simulate, and transpile quantum circuits while exploring both algorithmic behavior and hardware-aware execution constraints.
+The portfolio implementations use Qiskit to build, simulate, and transpile quantum circuits while exploring both algorithmic behavior and hardware-aware execution constraints.
 
 ## Repository Structure
 
